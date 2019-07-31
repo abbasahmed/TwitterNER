@@ -6,7 +6,7 @@ Twitter named entity extraction for WNUT 2016 http://noisy-text.github.io/2016/n
 ## Installation
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 cd data
 wget http://nlp.stanford.edu/data/glove.twitter.27B.zip
 unzip glove.twitter.27B.zip
